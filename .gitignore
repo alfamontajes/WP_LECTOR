@@ -1,0 +1,36 @@
+# --- VISUAL STUDIO CODE ---
+.vscode/
+.history/
+
+# --- ENTORNOS VIRTUALES ---
+.venv/
+venv/
+
+# --- PYTHON ---
+__pycache__/
+*.py[cod]
+
+# --- ARCHIVOS DE EXCEL (DATOS DE OBRA/NÓMINA) ---
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.csv
+*.ods
+
+# --- IMÁGENES ---
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.svg
+*.webp
+
+# --- CONFIGURACIÓN Y SEGURIDAD ---
+.env
+*.sqlite3
+
+# --- SISTEMA (LINUX MINT) ---
+.directory
+.Trash-*
